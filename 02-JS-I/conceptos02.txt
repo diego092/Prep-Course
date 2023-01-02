@@ -1,0 +1,17 @@
+Variables: Las variables son un espacio en la memoria, la cual se aparta para almacenar un tipo de dato. Estos valores pueden ser de diferentes tipos, como números enteros, decimales (float), booleanos o del tipo string (son del tipo texto o caracteres).
+
+String: Son un tipo de dato, los cuales se utilizan para representar letras, simbolos, números o caracteres, los cuales se tratan como si fueran texto. Para utilizarlos deben estar incluídos dentro de comillas simples o dobles.
+EJ: "hola", "HOLA, "TEL: 1234123", 'email@email.com' .
+
+Funciones:
+Es un fragmento de código que puede ser reutilizado, es decir, que puede ejecutar indefinidamente instrucciones de código. Para que este fragmento de código pueda ser llamado función, es necesario que tenga una entrada, estos valores se denominan ARGUMENTOS, y luego una salida, es decir, retornar un valor (mediante la keyword(palabra clave) return). Para poder utilizar la función es necesaria definirla.
+
+
+Declaraciones:
+Las declaraciones son sentencias o statement, es decir, que el código realiza una acción.
+Por lo que podria definirselas como instrucciones del programa.
+Un ejemplo son las sentencias if, que son llamadas "sentencias de control de flujo", cuya función es ordenar el código de forma secuencial.
+
+
+Valores booleanos:
+Es un tipo de dato que puede tener dos valores posibles true o false, es decir, verdadero o falso.
