@@ -1,0 +1,29 @@
+for: 
+El búcle for se utiliza para ejecutar una porción de código una cantidad determinada de veces, en cada iteración (o vuelta) se repite una sentencia o instrucción. Además se puede usar una sentencia break para salir del bucle antes que la expresión de la condición devuelva false.
+
+Su sintaxis (forma de escribir) es de la siguiente manera: 
+
+for ([initializacion]); [condicion]; [expresion-final]) {
+   // sentencias
+}
+
+Inicialización: Se utiliza para controlar la cantidad de repeticiones del búcle. El alcance de esta variable esta limitado al scope o cuerpo del bucle.
+
+Condición: Esta expresión se evalua antes de la ejecución de cada iteración. Tiene la particularidad de que si se omite, la expresión es evaluada como verdadera, en este caso la sentencia del bucle se ejecuta, en caso de devolver false, el bucle se detendra.
+
+Expresion final: Esta expresión se ejecuta al final de cada iteración, se puede usar para incrementar o disminuir el contador.
+
+Operadores lógicos:
+
+Los operadores lógicos comparan valores booleanos y devuelven a su vez respuestas booleanas.
+
+&& : Es el operador lógico AND, se escribe &&. Compara dos expresiones, si la primera resulta verdadera, la sentencia devolverá el valor de la segunda expresión.
+Si la primera resulta falsa, la sentencia devolverá el valor de la primera expresión.
+Si los valores a evaluar son booleanos, devuelve verdadeo si ambas expresiones son verdaderas, si una o ambas son falsas, devolverá falso.
+
+|| : Es el operador lógico OR. También compara dos expresiones, si la primera evaluada resulta falsa, sentencia devolverá el valor de la segunda expresión, si la primera resulta verdadera, la sentencia devolverá el valor de la primera expresión.
+
+Si los valores son booleanos, devuelve true si cualquiera de las dos expresiones son verdaderas. 
+
+!: El operador lógico NOT, no se utiliza para comparar, sirve para convertir la expresión en un booleano o devolver el valor contrario del booleano obtenido.
+
