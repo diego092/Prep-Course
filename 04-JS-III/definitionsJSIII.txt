@@ -1,0 +1,14 @@
+Array: Array: Un array es una colección de elementos, es decir, que los arrays guardan los datos como elementos.
+
+Los arrays pueden almacenar diferentes tipos de datos, como strings, booleanos, numeros, objetos e incluso otros arrays.
+
+Tienen la particularidad de que su longitud, es decir, el tamaño se determina según la cantidad de elementos que lo conforman, esta a su vez puede variar en cualquier momento.
+
+Para acceder a los elementos del array se utiliza su indice, el cual comienza en la posición 0.
+La sintáxis de un array es la siguiente:
+
+var array = [0, 1, 2, 3]
+
+Una forma de acceder a ellos:
+
+array[2];
